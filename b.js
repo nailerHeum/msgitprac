@@ -1,2 +1,2 @@
 var introB = "This is b.js haahahahahha";
-console.log(introB);
+var introA = introB + "And this is A.js hahahahahha";
